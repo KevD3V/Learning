@@ -1,0 +1,19 @@
+Networking device that directs data packets between separate networks using IP addresses.,Router
+Networking device that connects devices within a LAN and forwards data using MAC addresses.,Switch
+"Configurable networking device that supports features such as VLANs, traffic monitoring, and port security.",Managed Switch
+Plug-and-play networking device that connects equipment without requiring configuration.,Unmanaged Switch
+Networking device that allows Wi-Fi clients to connect to a wired local network.,Wireless Access Point (WAP)
+Passive hardware used to organize and terminate multiple network cable runs.,Patch Panel
+Security device or software that permits or blocks network traffic according to predefined rules.,Firewall
+Technology that delivers electrical power and data through the same twisted-pair network cable.,Power over Ethernet (PoE)
+Device that adds electrical power to a network connection for equipment such as cameras or access points.,PoE Injector
+Networking device that connects multiple LAN devices while supplying electricity through their data cables.,PoE Switch
+IEEE specifications defining electrical delivery methods and power limits over twisted-pair networking cables.,PoE Standards
+Electrical delivery specification supporting up to 15.4 watts per source port.,IEEE 802.3af (PoE)
+Electrical delivery specification supporting up to 30 watts per source port.,IEEE 802.3at (PoE+)
+"Electrical delivery specification supporting up to 60 or 90 watts per source port, depending on type.",IEEE 802.3bt (PoE++)
+Device that converts broadband signals carried over coaxial television wiring into usable network data.,Cable Modem
+Device that connects to broadband internet service delivered through copper telephone lines.,Digital Subscriber Line (DSL) Modem
+Device that converts incoming fiber-optic light signals into electrical data for customer equipment.,Optical Network Terminal (ONT)
+Hardware adapter that enables a computer to send and receive data over a network.,Network Interface Card (NIC)
+Typically 48-bit hardware identifier assigned to a networking interface.,Physical Media Access Control (MAC) Address
